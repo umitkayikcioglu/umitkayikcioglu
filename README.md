@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umitkayikcioglu&repo=ruya&theme=dracula) -->
+![Github stats](https://github-readme-stats.vercel.app/api?username=umitkayikcioglu&show_icons=true&count_private=true&theme=bear)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umitkayikcioglu&layout=compact&theme=bear)
+<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=umitkayikcioglu) -->
